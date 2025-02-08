@@ -1,0 +1,15 @@
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/bin/Debug/net8.0/journalApplication
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/bin/Debug/net8.0/journalApplication.deps.json
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/bin/Debug/net8.0/journalApplication.runtimeconfig.json
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/bin/Debug/net8.0/journalApplication.dll
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/bin/Debug/net8.0/journalApplication.pdb
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/obj/Debug/net8.0/journalApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/obj/Debug/net8.0/journalApplication.AssemblyInfoInputs.cache
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/obj/Debug/net8.0/journalApplication.AssemblyInfo.cs
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/obj/Debug/net8.0/journalApplication.csproj.CoreCompileInputs.cache
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/obj/Debug/net8.0/journalApplication.sourcelink.json
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/obj/Debug/net8.0/journalApplication.dll
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/obj/Debug/net8.0/refint/journalApplication.dll
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/obj/Debug/net8.0/journalApplication.pdb
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/obj/Debug/net8.0/journalApplication.genruntimeconfig.cache
+/Users/emilytuttle/Desktop/journalApplication/journalApplication/obj/Debug/net8.0/ref/journalApplication.dll
